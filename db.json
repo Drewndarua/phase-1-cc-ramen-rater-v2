@@ -1,15 +1,15 @@
 {
   "ramens": [
     {
-        "id": 1,
-        "name": "Shoyu Ramen",
-        "restaurant": "Nonono",
-        "image": "./assets/ramen/shoyu.jpg",
-        "rating": 7,
-        "comment": "Delish. Can't go wrong with a classic!"
+      "id": "1",
+      "name": "Shoyu Ramen",
+      "restaurant": "Nonono",
+      "image": "./assets/ramen/shoyu.jpg",
+      "rating": 7,
+      "comment": "Delish. Can't go wrong with a classic!"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Naruto Ramen",
       "restaurant": "Naruto",
       "image": "./assets/ramen/naruto.jpg",
@@ -17,15 +17,15 @@
       "comment": "My absolute fave!"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Nirvana Shiromaru",
       "restaurant": "Ippudo",
       "image": "./assets/ramen/nirvana.jpg",
-      "rating": "7",
+      "rating": 7,
       "comment": "Do buy the hype."
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Gyukotsu Ramen",
       "restaurant": "Za-Ya Ramen",
       "image": "./assets/ramen/gyukotsu.jpg",
@@ -33,12 +33,28 @@
       "comment": "Good to the last drop."
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Kojiro Red Ramen",
       "restaurant": "Ramen-Ya",
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "id": "600b",
+      "name": {},
+      "restaurant": {},
+      "image": {},
+      "rating": {},
+      "comment": {}
+    },
+    {
+      "id": "8513",
+      "name": "Mysho",
+      "restaurant": "Ramen",
+      "image": "http://localhost:5500/assets/ramen/kojiro.jpg",
+      "rating": "4",
+      "comment": "Not bad"
     }
   ]
 }
